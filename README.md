@@ -1,5 +1,5 @@
-# Sorry, no documentation was done when I developped this app.
+# Widgets to visualize gridlock feature of blockchain
 
-So wait I until I have time to explain everything. This setup requires you have multiple quorum
-nodes running my Stash and TransactionAgent contract.
-# quorum-vis
+More details to be added later
+
+# quorum-vis-latest
